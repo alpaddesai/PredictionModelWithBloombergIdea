@@ -36,10 +36,10 @@ int main()
 	vector <double>PredictedPHLXSemiconductorIndexModel;
 	vector <double> PHLXSemiConductorIndex;
 	vector<double> RegressionModelErrors;
-	vector <double> Predictor1;   //ChinaConsumerIndex
-	vector <double> Predictor2;  //FederalDiscountRate
-	vector <double> Predictor3;           //SP500Index
-	vector <double> Predictor4; //USConsumerPriceIndex
+	vector <double> Predictor1;   //Alpaproprietarypredictor1
+	vector <double> Predictor2;   //Alpaproprietarypredictor2  
+	vector <double> Predictor3;   //Alpaproprietarypredictor3        
+	vector <double> Predictor4;   //Alpaproprietarypredictor4 
 
 	CFunctionProgrammingFileProcessing(PHLXSemiConductorIndex,Predictor1,Predictor2,Predictor3,Predictor4);
 
