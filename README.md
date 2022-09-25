@@ -4,5 +4,7 @@ The project consists of a custom prediction model. For details please reference 
 
 ![image](MinitabEssentials.jpg)
 
+![image](USCopyrightCertificate.png)
+
 Additional reference : https://github.com/alpaddesai/BusinessDevelopmentMergersAcquisitionsIdea
 
