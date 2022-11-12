@@ -6,5 +6,7 @@ The project consists of a custom prediction model. For details please reference 
 
 ![image](USCopyrightCertificate.png)
 
+![image](Ethics.jpg)
+
 Additional reference : https://github.com/alpaddesai/BusinessDevelopmentMergersAcquisitionsIdea
 
