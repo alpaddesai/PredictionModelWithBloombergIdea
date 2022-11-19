@@ -4,6 +4,8 @@ The project consists of a custom prediction model. For details please reference 
 
 ![image](MinitabEssentials.jpg)
 
+![image](CFAExam.jpg)
+
 ![image](USCopyrightCertificate.png)
 
 ![image](Ethics.jpg)
