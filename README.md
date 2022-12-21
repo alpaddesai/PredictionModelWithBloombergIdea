@@ -11,8 +11,6 @@ Please reference the attached global mutual fund project for details.
 
 ![image](MutualFundsAlpaDesai.jpg)
 
-![image](CFAExam.jpg)
-
 ![image](USCopyrightCertificate.png)
 
 ![image](Ethics.jpg)
