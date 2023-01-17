@@ -14,5 +14,5 @@ Please reference the attached global mutual fund project for details.
 
 ![image](Ethics.jpg)
 
-Additional reference : https://github.com/alpaddesai/InvestmentBanking
+Additional reference : https://github.com/alpaddesai/BusinessDevelopmentMergersAcquisitionsIdea
 
